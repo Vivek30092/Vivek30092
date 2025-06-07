@@ -12,6 +12,7 @@
     <a href="https://github.com/Vivek30092"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/github.png"></a>&nbsp;&nbsp;
     <a href="https://learn.microsoft.com/en-us/users/vivekkumarchoudhary-7552/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/microsoft.png?raw=true"></a>
     <a href="https://x.com/vivekkumarc934"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/x_logo.jpg?raw=true"></a>
+    <a href="https://mail.google.com/mail/u/vivekkumarc934/0/?tab=rm&ogbl#inbox?compose=new"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
     </p>
   <div align = "center">
   <a href="#"><img align="center" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/coadiing_gif.gif"  height="150" /></a>
