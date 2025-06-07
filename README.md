@@ -23,7 +23,7 @@
 <footer>
 <div>
 <p display : "block" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek30092&theme=tokyonight&layout=compact&langs_count=8" alt="Vivek's Top Languages Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek30092&theme=tokyonight&layout=compact&langs_count=10" alt="Vivek's Top Languages Stats" />
 </p>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Vivek30092&theme=tokyonight" alt="Vivek's GitHub Streak"  width = 420px />
