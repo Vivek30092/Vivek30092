@@ -7,7 +7,12 @@
 </header>
 <body>
   <p align = "center">🔍 Always debugging life...!! & have trained my brain on Python</p>
+  <div align = "center">
+  <a href="#"><img align="center" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/coadiing_gif.gif"  height="150" /></a>
+  </div>
+  <br>
 </body>
+
 <footer>
 <div>
 <p display : "block" align="center">
