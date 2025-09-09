@@ -11,7 +11,7 @@
   <a href="mailto:vivekkumarc934@example.com"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
   </p>
 <div align = "center">
-<a href="#"><img align="center" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/coadiing_gif.gif"  height="150" /></a>
+<a href="#"><img align="center" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/coadiing_gif.gif"  height="150px" /></a>
 </div>
 <br>
 <h2>🔧 Technologies & Tools</h2>
@@ -60,6 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vivek30092&show_icons=true&theme=tokyonight" alt="Vivek's GitHub Stats" width="400px" />
 </a>
 </div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092" />
 
 
 
