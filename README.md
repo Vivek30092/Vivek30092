@@ -63,7 +63,7 @@
 </div>
 <br><br>
 <div align="center">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092" />
 </div>
 <div align="center">
   <i>⭐️ From <a href="https://github.com/Vivek30092">Vivek</a> with ❤️</i>
