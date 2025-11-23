@@ -1,5 +1,6 @@
 <div align = "center">
-  <h1>Hey there👋,</h1>
+  <h1>Hey there👋, I'm Vivek Choudhary!!<br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=45&pause=1000&color=F71E43&width=435&lines=AIML+Enthusiasts...;Full+Stack+Developer...;Always+Learning!!" alt="Typing SVG" /></a></h1>
 </div>
 
 <p align = "center">🔍 Always debugging life...!! & have trained my brain on Python</p>
