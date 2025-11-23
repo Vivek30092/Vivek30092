@@ -28,7 +28,7 @@
 
 🚀 Goals: Contribute to open-source AI/ML projects and build industry-ready intelligent applications
 <p>
-  <a href="https://github.com/Vivek30092/Vivek30092/blob/main/files/Vivek_kumar_choudhary.pdf" target="_blank">
+  <a href="https://github.com/Vivek30092/Vivek30092/blob/main/files/Vivek_kumar_choudhary_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
   </a>
 </p>
