@@ -61,7 +61,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vivek30092&show_icons=true&theme=tokyonight" alt="Vivek's GitHub Stats" width="400px" />
 </a>
 </div>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092" />
+<br><br>
+<div align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092" />
+</div>
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Vivek30092">Vivek</a> with ❤️</i>
+</div>
 
 
 
