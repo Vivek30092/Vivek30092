@@ -10,6 +10,7 @@
   <a href="https://learn.microsoft.com/en-us/users/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/microsoft.png?raw=true"></a>
   <a href="https://x.com/vivekkumarc934"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/x_logo.jpg?raw=true"></a>
   <a href="mailto:vivekkumarc934@example.com"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
+    
   </p>
 <div align = "center">
 <a href="#"><img align="center" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/coadiing_gif.gif"  height="150px" /></a>
@@ -26,6 +27,12 @@
 🧠 Interested in Machine Learning, Computer Vision, Cybersecurity, and AI-FinTech Applications
 
 🚀 Goals: Contribute to open-source AI/ML projects and build industry-ready intelligent applications
+<p>
+  <a href="https://github.com/Vivek30092/<your-username>/blob/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
 </p><br><br>
 
 
