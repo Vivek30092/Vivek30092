@@ -34,7 +34,7 @@
   <a href="https://vivek30092.github.io/index.html" 
    target="_blank">
   <img 
-    src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" 
+    src="https://img.shields.io/badge/Portfolio-Click%20Here-red?style=for-the-badge&logo=adobeacrobat&logoColor=white" 
     alt="Portfoli"
   />
 </a>
