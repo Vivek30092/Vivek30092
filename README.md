@@ -31,6 +31,14 @@
   <a href="https://drive.google.com/drive/folders/1qG9Y9CpzEjr2VqxXhTixQd_kFevkVaq9?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
   </a>
+  <a href="https://vivek30092.github.io/index.html" 
+   target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" 
+    alt="Portfoli"
+  />
+</a>
+
 </p>
 
 </p><br><br>
