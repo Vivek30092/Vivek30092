@@ -18,7 +18,7 @@
 <br>
 <h2>About me</h2>
 <p>
-🎓 AWS AI & ML Scholar 2025 | Harvard Aspire Scholar 2025
+🎓 AWS AI & ML Scholar 2025 
   
 🏫 B.Tech CSE (AI & ML) student @ SAIT, Indore
 
