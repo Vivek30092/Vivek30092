@@ -28,15 +28,11 @@
 
 🚀 Goals: Contribute to open-source AI/ML projects and build industry-ready intelligent applications
 <p>
-  <a href="https://drive.google.com/drive/folders/1qG9Y9CpzEjr2VqxXhTixQd_kFevkVaq9?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://vivek30092.github.io/index.html" 
-   target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Portfolio-Click%20Here-red?style=for-the-badge&logo=adobeacrobat&logoColor=white" 
-    alt="Portfoli"
-  />
+  <a href="https://drive.google.com/drive/folders/1qG9Y9CpzEjr2VqxXhTixQd_kFevkVaq9?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-1A1A1A?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+</a>
+<a href="https://vivek30092.github.io/index.html">
+<img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -102,15 +98,22 @@
   
 <h2>📈 Github stats</h2>
 <p display : "block" align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vivek30092&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Vivek's Top Languages Stats" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vivek30092&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Vivek's Top Languages Stats" />
 </p>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Vivek30092&theme=tokyonight" alt="Vivek's GitHub Streak"  width = 420px />
+  <img src="https://streak-stats.demolab.com?user=Vivek30092&theme=github-dark&hide_border=true" alt="Vivek's GitHub Streak"  width = 420px />
 </a>
 
 <a href="https://github.com/Vivek30092/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vivek30092&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Vivek's GitHub Stats" width="400px" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=Vivek30092&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+</div>
+<h2>Contribution Graph</h2> 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek30092&bg_color=000000&color=ffffff&line=808080&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
 <br><br>
