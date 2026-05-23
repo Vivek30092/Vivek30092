@@ -10,7 +10,7 @@
   <a href="https://learn.microsoft.com/en-us/users/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/microsoft.png?raw=true"></a>
   <a href="https://x.com/vivekkumarc934"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/x_logo.jpg?raw=true"></a>
   <a href="mailto:vivekkumarc934@example.com"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
-  <a href="https://leetcode.com/Vivek3014/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/Vivek3014/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/LeetCode_logo_rvs.png?raw=true"/></a>
     
   </p>
 <div align = "center">
