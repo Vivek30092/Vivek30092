@@ -3,13 +3,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=45&pause=1000&color=F71E43&width=435&lines=AIML+Enthusiasts...;Full+Stack+Developer...;Always+Learning!!" alt="Typing SVG" /></a></h1>
 </div>
 
-<p align = "center">🔍 Always debugging life...!! & have trained my brain on Python</p>
+<p align = "center">🔍 Building intelligent solutions with code, AI, and creativity.</p>
   <p align='center'>
   <a href="https://www.linkedin.com/in/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://github.com/Vivek30092"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/github.png"></a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/microsoft.png?raw=true"></a>
   <a href="https://x.com/vivekkumarc934"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/x_logo.jpg?raw=true"></a>
   <a href="mailto:vivekkumarc934@example.com"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
+  <a href="https://leetcode.com/Vivek3014/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
     
   </p>
 <div align = "center">
@@ -107,6 +108,12 @@
 <a href="https://github.com/Vivek30092/github-readme-stats#gh-dark-mode-only">
   <img height="170em" src="https://github-readme-stats.shion.dev/api?username=Vivek30092&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+<h2>LeetCode stats</h2> 
+<div>
+
+<img src="https://leetcard.jacoblin.cool/Vivek3014?theme=dark&font=Karma&ext=contest"/>
+
+</div>
 </div>
 <h2>Contribution Graph</h2> 
 
