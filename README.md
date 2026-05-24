@@ -15,7 +15,7 @@
 <!-- ── HERO SECTION ────────────────────────────────────────────── -->
 <div align="center">
 
-<h1>Vivek Kumar Choudhary</h1>
+<h1>Hey there👋, I'm Vivek Choudhary!!</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F71E43&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+AWS+Scholar+2025;Full+Stack+Developer+%7C+Django+%7C+Python;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+Intelligent%2C+Real-World+Solutions" alt="Typing SVG" />
@@ -312,24 +312,6 @@ Fabric Data Engineer Associate
 
 ---
 
-<!-- ── CONNECT ─────────────────────────────────────────────────── -->
-## 🤝 Connect with Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [choudharyvivek1430](https://www.linkedin.com/in/choudharyvivek1430/) |
-| 🐙 GitHub | [Vivek30092](https://github.com/Vivek30092) |
-| 🪟 Microsoft Learn | [choudharyvivek1430](https://learn.microsoft.com/en-us/users/choudharyvivek1430/) |
-| 🐦 X / Twitter | [@vivekkumarc934](https://x.com/vivekkumarc934) |
-| 📧 Email | [vivekkumarc934@example.com](mailto:vivekkumarc934@example.com) |
-| 🧩 LeetCode | [Vivek3014](https://leetcode.com/Vivek3014/) |
-| 🌐 Portfolio | [vivek30092.github.io](https://vivek30092.github.io/index.html) |
-
-</div>
-
----
 
 <!-- ── FOOTER ──────────────────────────────────────────────────── -->
 <div align="center">
