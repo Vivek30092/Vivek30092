@@ -18,30 +18,19 @@
 <h1>Vivek Kumar Choudhary</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+AWS+Scholar+2025;Full+Stack+Developer+%7C+Django+%7C+Python;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+Intelligent%2C+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F71E43&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+AWS+Scholar+2025;Full+Stack+Developer+%7C+Django+%7C+Python;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+Intelligent%2C+Real-World+Solutions" alt="Typing SVG" />
 </a>
 
 <p><em>B.Tech CSE (AI & ML) · SAIT, Indore · Building at the intersection of intelligence and engineering</em></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/choudharyvivek1430/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Vivek30092">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/choudharyvivek1430/">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-1a1a1a?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
-  </a>
-  <a href="https://x.com/vivekkumarc934">
-    <img src="https://img.shields.io/badge/X_(Twitter)-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:vivekkumarc934@example.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/Vivek3014/">
-    <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Vivek30092"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/github.png"></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/choudharyvivek1430/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/microsoft.png?raw=true"></a>
+  <a href="https://x.com/vivekkumarc934"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/x_logo.jpg?raw=true"></a>
+  <a href="mailto:vivekkumarc934@example.com"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/email.png?raw=true"></a>
+  <a href="https://leetcode.com/Vivek3014/"><img height="30" src="https://github.com/Vivek30092/Vivek30092/blob/main/files/LeetCode_logo_rvs.png?raw=true"/></a>
+    
 </p>
 
 <p>
@@ -247,15 +236,16 @@ Fabric Data Engineer Associate
 ---
 
 <!-- ── CURRENTLY LEARNING ──────────────────────────────────────── -->
-## 📚 Currently Learning
 
-```
-🔷  Azure Data Engineering    ████████░░  80%
-🔷  Fabric DP-600 / DP-700   ███████░░░  70%
-🔷  Advanced Computer Vision  ██████░░░░  60%
-🔷  LLM Fine-tuning & RAG    █████░░░░░  50%
-🔷  MLOps & CI/CD Pipelines  ████░░░░░░  40%
-```
+## 🚀 Currently Learning
+
+| Technology / Domain | Progress |
+|---------------------|----------|
+| 🔷 Azure Data Engineering | ████████░░ 80% |
+| 🔷 Fabric DP-600 / DP-700 | ███████░░░ 70% |
+| 🔷 Advanced Computer Vision | ██████░░░░ 60% |
+| 🔷 LLM Fine-tuning & RAG | █████░░░░░ 50% |
+| 🔷 MLOps & CI/CD Pipelines | ████░░░░░░ 40% |
 
 ---
 
@@ -346,6 +336,6 @@ Fabric Data Engineer Associate
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Vivek30092.Vivek30092&left_color=1a1a1a&right_color=444444&left_text=Profile%20Views" alt="Profile Views"/>
 
-<p><sub>Crafted with precision · Vivek Kumar Choudhary · 2025</sub></p>
+<p><sub>Crafted with precision · Vivek Kumar Choudhary · 5.2026</sub></p>
 
 </div>
