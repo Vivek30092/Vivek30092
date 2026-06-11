@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/drive/folders/1qG9Y9CpzEjr2VqxXhTixQd_kFevkVaq9?usp=sharing">
+  <a href="https://drive.google.com/file/d/1cq_fHE8nTSSpvUZOc0idOq06n_dSMH2c/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄_Resume-2d2d2d?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://vivek30092.github.io/index.html">
