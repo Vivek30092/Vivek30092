@@ -18,7 +18,7 @@
 <h1>Hey there👋, I'm Vivek Choudhary!!</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F71E43&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+AWS+Scholar+2025;Full+Stack+Developer+%7C+Django+%7C+Python;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+Intelligent%2C+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F71E43&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+AWS+Scholar+2025;Microsoft+Learn+Student+Ambassador;Full+Stack+Developer+%7C+Django+%7C+Python;Computer+Vision+%7C+Deep+Learning+%7C+Cloud;Building+Intelligent%2C+Real-World+Solutions" alt="Typing SVG" />
 </a>
 
 <p><em>B.Tech CSE (AI & ML) · SAIT, Indore · Building at the intersection of intelligence and engineering</em></p>
@@ -56,6 +56,8 @@ name        : Vivek Kumar Choudhary
 role        : AI/ML Engineer · Full Stack Developer · Cloud Enthusiast
 education   : B.Tech CSE (AI & ML) — SAIT, Indore
 scholarship : AWS AI & ML Scholar 2025
+ambassador  : Microsoft Learn Student Ambassador
+certified   : DP-700 (Fabric Data Engineer Associate)
 focus_areas :
   - Artificial Intelligence & Machine Learning
   - Computer Vision & Deep Learning
@@ -205,9 +207,9 @@ AWS Academy · Active
 </td>
 <td align="center" width="25%">
 
-**🪟 Microsoft Learn**
+**🎖️ Microsoft Learn Student Ambassador**
 `Active`
-Achievements & Learning Paths
+Student Ambassador & Learning Paths
 
 [![Profile](https://img.shields.io/badge/Profile-1a1a1a?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/choudharyvivek1430/)
 
@@ -224,10 +226,10 @@ Fabric Analytics Engineer Associate
 <td align="center" width="25%">
 
 **📈 DP-700**
-`In Progress`
+`Certified ✅`
 Fabric Data Engineer Associate
 
-[![Details](https://img.shields.io/badge/Preparing-2d2d2d?style=flat-square&logo=microsoftazure&logoColor=white)](#)
+[![Verified](https://img.shields.io/badge/Certified-1a8f3a?style=flat-square&logo=microsoftazure&logoColor=white)](#)
 
 </td>
 </tr>
@@ -242,7 +244,8 @@ Fabric Data Engineer Associate
 | Technology / Domain | Progress |
 |---------------------|----------|
 | 🔷 Azure Data Engineering | ████████░░ 80% |
-| 🔷 Fabric DP-600 / DP-700 | ███████░░░ 70% |
+| 🔷 Fabric DP-600 | ███████░░░ 70% |
+| ✅ Fabric DP-700 | ██████████ 100% |
 | 🔷 Advanced Computer Vision | ██████░░░░ 60% |
 | 🔷 LLM Fine-tuning & RAG | █████░░░░░ 50% |
 | 🔷 MLOps & CI/CD Pipelines | ████░░░░░░ 40% |
